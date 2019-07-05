@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    padding-top: 10vw;
+}
+nav{
+    color: pink;
+    background: repeating-linear-gradient(45deg,red,blue 50%);
+    position: fixed;
+    width: 100%;
+    padding: 1vw;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#knight{
+    width:3vw;
+}
+#knightpng{
+    width: 3vw;
+}
