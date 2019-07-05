@@ -8,6 +8,7 @@ nav{
     position: fixed;
     width: 100%;
     padding: 2vw;
+    opacity: .8;
 }
 a{
     text-decoration: none;
